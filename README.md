@@ -12,7 +12,6 @@ Cbnu-kaka-map-api는 kakao map api를 사용하여 사용자가 원하는 장소
 
 본인의 로컬 호스트 서버를 열어서 (ex:http:localhost~/파일이름.html) 본인이 입력한 좌표를 카카오 맵 형식으로 볼 수 있습니다.
 
-## Html과 Javascript의 기본적인 부분을 공부하고 오신 후 보시길 추천드립니다.
 
 #최종 결과창
 ![cbnu kakao map](https://github.com/dude1599/cbnu-map-kakao_api/assets/133233495/37897c92-7609-41a2-a2cb-85fd9e8eeea7)
