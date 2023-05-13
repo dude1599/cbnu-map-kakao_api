@@ -14,7 +14,9 @@ Cbnu-kaka-map-api는 kakao map api를 사용하여 사용자가 원하는 장소
 
 
 #최종 결과창
-![cbnu kakao map](https://github.com/dude1599/cbnu-map-kakao_api/assets/133233495/37897c92-7609-41a2-a2cb-85fd9e8eeea7)
+![2023-05-13](https://github.com/dude1599/cbnu-map-kakao_api/assets/133233495/66befae9-95da-42ea-a4bc-ce3010537617)
+
+
 
 # Source Code
 <!DOCTYPE html>
